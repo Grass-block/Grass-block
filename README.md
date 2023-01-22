@@ -20,7 +20,7 @@ You can call me:
 
 ### Introduction
 
-I come from Chinese Mainland/Beijing, 15 years old (junior three), gender: starfish. I like playig Minecraft, is a member of FlyBird Studio, work as the main developing and web design.
+I come from Chinese Mainland/Beijing, 15 years old (junior three), gender: starfish. I like playing Minecraft, is a member of FlyBird Studio, work as the main developing and web design.
 
 Current language: Java
 
