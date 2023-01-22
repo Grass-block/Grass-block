@@ -1,21 +1,24 @@
-this readme is translated by machine
+this readme is translated by machine.
+
 for raw language(ZH_CN),plz go down :D
 
-###Hi, here is GrassBlock2022
+***
+
+### Hi, here is GrassBlock2022
 
 As you can see, here is the personal github account of GrassBlock
 
 You can call me:
 
--GrassBlock
+- GrassBlock
 
--StarfishBlock
+- StarfishBlock
 
--Starfish
+- Starfish
 
 ***
 
-###Introduction
+### Introduction
 
 I come from Chinese Mainland/Beijing, 15 years old (junior three), gender: starfish. I like playig Minecraft, is a member of FlyBird Studio, work as the main developing and web design.
 
@@ -27,11 +30,11 @@ Learning: C#, openTK
 
 ###Contact
 
--Tel: 18210287361
+- Tel: 18210287361
 
 - QQ：1563575481
 
--Email: 1563575481@qq.com
+- Email: 1563575481@qq.com
 
 The world is so big, lucky to meet you.
 
@@ -39,7 +42,7 @@ The world is so big, lucky to meet you.
 
 ***
 
-###Friendly link
+### Friendly link
 
 CubeVlmu： https://github.com/hehe1005566889
 
@@ -47,7 +50,9 @@ HappyTBS： https://github.com/happyTBS
 
 Syphlix_ Oauthes： https://github.com/llw1573
 
+***
 
+中文版本（English Version go up）
 
 ### Hi，这里是草方块
 
