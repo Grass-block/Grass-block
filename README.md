@@ -28,7 +28,7 @@ Technologies in use: LWJGL, openGl, openAL.
 
 Learning: C#, openTK
 
-###Contact
+### Contact
 
 - Tel: 18210287361
 
