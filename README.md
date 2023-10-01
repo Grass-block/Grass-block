@@ -1,46 +1,31 @@
-### Hi，这里是草方块
+# Hey, it's GrassBlock2022!
 
-如你所见，这里是草方块的个人github账户
+<a href="https://github.com/Grass-Block">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Grass-Block&theme=github_dark&show_icons=true" />
+</a>
 
-你可以叫我：
+I'm the creator of project 
+[Cubecraft](https://github.com/FlybirdGameStudio/Cubecraft) and 
+[FCommon](https://github.com/ProtonGameStudio/FCommon).
 
-- 草方块
+I've been exploring the world of programming since the age of 13, starting with Java. 
+Over the years, I've expanded my skills to include Python, and I'm currently diving into C# and C++.
+I'm passionate about developing user-friendly applications, 
+and I have experience working with JavaFX and am currently learning Avalonia for cross-platform development.
 
-- 海星方块
+As a proud member of FlyBirdGames, 
+I'm excited to collaborate and contribute to the world of game development and software engineering.
 
-- 海星
+Feel free to explore my repositories and projects to see what I've been working on. 
+Don't hesitate to reach out if you'd like to collaborate or have any questions!
 
-***
+### Contact:
+- Mail: 1563575481@qq.com
+- QQ: 1563575481
 
-### 简介
-
-我来自中国大陆/北京，15岁（初三）,性别：海星。喜欢玩Minecraft，是FlyBirdStudio成员，负责主要开发工作和网页设计。
-
-开发语言：Java
-
-正在使用的技术：LWJGL，openGl，openAL。
-
-正在学习：C#，openTK
-
-### 联系方式
-
-- 电话：18210287361
-
-- QQ：1563575481
-
-- 邮箱：1563575481@qq.com
-
-世界之大，有幸与你相见。
-
-（完）
-
-***
-
-### 友情链接
-
-CubeVlmu：https://github.com/hehe1005566889
-
-HappyTBS：https://github.com/happyTBS
-
-Syphlix_Oauthes：https://github.com/llw1573
+### Links:
+- FlybirdGames: https://github.com/FlybirdGameStudio
+- CubeVlmu: https://github.com/hehe1005566889
+- HappyTBS: https://github.com/happyTBS
+- Syphlix_Oauthes: https://github.com/llw1573
 
