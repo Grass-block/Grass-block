@@ -6,8 +6,7 @@
 </a>
 
 I'm the creator of project 
-[Cubecraft](https://github.com/FlybirdGameStudio/Cubecraft) and 
-[FCommon](https://github.com/ProtonGameStudio/FCommon).
+[Cubecraft]([https://github.com/FlybirdGameStudio/Cubecraft](https://github.com/CubecraftDevelopment/Cubecraft))
 
 I've been exploring the world of programming since the age of 13, starting with Java. 
 Over the years, I've expanded my skills to include Python, and I'm currently diving into C# and C++.
@@ -25,8 +24,6 @@ Don't hesitate to reach out if you'd like to collaborate or have any questions!
 - QQ: 1563575481
 
 ### Links:
-- FlybirdGames: https://github.com/FlybirdGameStudio
-- CubeVlmu: https://github.com/hehe1005566889
 - HappyTBS: https://github.com/happyTBS
 - Syphlix_Oauthes: https://github.com/llw1573
 
