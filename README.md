@@ -13,9 +13,6 @@ Over the years, I've expanded my skills to include Python, and I'm currently div
 I'm passionate about developing user-friendly applications, 
 and I have experience working with JavaFX and am currently learning Avalonia for cross-platform development.
 
-As a proud member of FlyBirdGames, 
-I'm excited to collaborate and contribute to the world of game development and software engineering.
-
 Feel free to explore my repositories and projects to see what I've been working on. 
 Don't hesitate to reach out if you'd like to collaborate or have any questions!
 
