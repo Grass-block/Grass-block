@@ -48,9 +48,14 @@ GrassBlock2022
   <img src="https://github-readme-stats.vercel.app/api/?username=Grass-Block&theme=github_dark&show_icons=true" />
 </a>
 
-Okay i dont think leaving a full paragraph of damn self-introduction is meaningful.
+游戏开发是不可能做的，这辈子也不可能做的。
+最多就是给Minecraft写写插件。
+
+某个脑子有病的天才给我踹了之后我才意识到我被他诱导了两年呢~
+哦对了某些人心心念念想要搞死的TBSTCraft一周目复活了呢~
 
 ### Links:
 - HappyTBS: https://github.com/happyTBS
 - Syphlix_Oauthes: https://github.com/llw1573
+- TBSTCraft: https://tbstmc.xyz
 
