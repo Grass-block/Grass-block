@@ -48,11 +48,13 @@ GrassBlock2022
   <img src="https://github-readme-stats.vercel.app/api/?username=Grass-Block&theme=github_dark&show_icons=true" />
 </a>
 
-游戏开发是不可能做的，这辈子也不可能做的。
-最多就是给Minecraft写写插件。
+游戏开发是不可能做的，这辈子也不可能做的
 
-某个脑子有病的天才给我踹了之后我才意识到我被他诱导了两年呢~
-哦对了某些人心心念念想要搞死的TBSTCraft一周目复活了呢~
+最多就是给Minecraft写写插件
+
+一只会写代码的草方块，喜欢玩Minecraft和CS2，写插件和MOD。
+
+
 
 ### Links:
 - HappyTBS: https://github.com/happyTBS
