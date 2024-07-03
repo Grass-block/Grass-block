@@ -55,6 +55,9 @@ GrassBlock2022
 一只会写代码的草方块，喜欢玩Minecraft和CS2，写插件和MOD。
 
 
+### 个人非公开项目授权信息:
+ATCraftNetwork 官网: ApartTUSITU及其服务器
+
 
 ### Links:
 - HappyTBS: https://github.com/happyTBS
