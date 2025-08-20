@@ -5,8 +5,17 @@
 </a>
 
 ### About me
-- Language: Java, JavaScript, Html, CSS
-- Field: ServerSide, Minecraft Plugins and Mods
+Nothing but an IT Lover.
+
+### Working fields
+- Frontend(HTML,CSS,JS)
+- Backend(Spring)
+- Minecraft(Mods,Plugins and Clones)
+- Utility programs
+
+### Organizations
+- ATCraftMC
+- Starfish-Technology
 
 
 
@@ -17,7 +26,7 @@ ATCraftNetwork 官网: ApartTUSITU及其服务器
 ### Links:
 - HappyTBS: https://github.com/happyTBS
 - Syphlix_Oauthes: https://github.com/llw1573
-- TBSTCraft: https://tbstmc.xyz
+- ATCraftMC: https://atcraftmc.cn
 
-主页：https://grassblock2022.pages.dev/
+https://grassblock2022.pages.dev/
 
