@@ -13,15 +13,8 @@ Nothing but an IT Lover.
 - Minecraft(Mods,Plugins and Clones)
 - Utility programs
 
-### Organizations
-- ATCraftMC
-- Starfish-Technology
-
-
-
 ### 个人非公开项目授权信息:
 ATCraftNetwork 官网: ApartTUSITU及其服务器
-
 
 ### Links:
 - HappyTBS: https://github.com/happyTBS
