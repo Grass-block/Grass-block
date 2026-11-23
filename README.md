@@ -13,12 +13,6 @@ Independent developer primarily working with Java, building application framewor
 
 ---
 
-### About Me / 关于我
-
-我喜欢研究软件系统的内部工作机制，关注架构设计、工程实践与底层实现。相比单纯实现功能，我更感兴趣的是如何构建可扩展、可维护且高效的系统。
-
-I'm interested in understanding how software systems work internally, with a focus on architecture, engineering practices, and low-level implementation. Beyond simply building features, I enjoy designing systems that are extensible, maintainable, and efficient.
-
 ### Areas of Interest / 技术方向
 
 - **Backend & Infrastructure** — Java application architecture, modular systems, networking, asynchronous processing, and data persistence.
