@@ -13,13 +13,9 @@ Nothing but an IT Lover.
 - Minecraft(Mods,Plugins and Clones)
 - Utility programs
 
-### 个人非公开项目授权信息:
-ATCraftNetwork 官网: ApartTUSITU及其服务器
-
 ### Links:
 - HappyTBS: https://github.com/happyTBS
 - Syphlix_Oauthes: https://github.com/llw1573
-- ATCraftMC: https://atcraftmc.cn
 
 https://grassblock2022.pages.dev/
 
